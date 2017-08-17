@@ -1,0 +1,6 @@
+
+[
+    { "caption": "-", "id": "bookmarks" },
+    { "caption": "Push Bookmark", "command": "bookmark_push" },
+    { "caption": "Pop Bookmark", "command": "bookmark_pop" }
+]
